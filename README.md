@@ -9,10 +9,10 @@ My goal is to continuously improve my technical skills and build projects that c
 
 Currently Working On
 
-• Improving my programming and problem-solving abilities.
-• Strengthening my understanding of computer science fundamentals.
-• Building projects to gain practical development experience.
-• Exploring modern software development tools and technologies.
+1. Improving my programming and problem-solving abilities.
+2. Strengthening my understanding of computer science fundamentals.
+3. Building projects to gain practical development experience.
+4. Exploring modern software development tools and technologies.
 
 Currently Learning
 
@@ -22,7 +22,7 @@ Currently Learning
 4. Database Management Systems (DBMS).
 5. Operating Systems and Computer Networks.
 6. Git, GitHub, and collaborative development workflows.
-7.Artificial Intelligence and Machine Learning fundamentals.
+7. Artificial Intelligence and Machine Learning fundamentals.
 
 Areas of Interest
 
@@ -37,18 +37,18 @@ Areas of Interest
 
 Looking to Collaborate On
 
-• Open-source projects
-• Web and software development projects
-• Programming competitions and hackathons
-• Innovative technology-based solutions
-• Student and community development projects
+1. Open-source projects
+2. Web and software development projects
+3. Programming competitions and hackathons
+4. Innovative technology-based solutions
+5. Student and community development projects
 
 Always Open To
 
-• Learning from experienced developers.
-• Exploring new technologies and frameworks.
-• Sharing knowledge with fellow learners.
-• Building meaningful projects and collaborations.
+1. Learning from experienced developers.
+2. Exploring new technologies and frameworks.
+3. Sharing knowledge with fellow learners.
+4. Building meaningful projects and collaborations.
 
 Fun Fact
 
